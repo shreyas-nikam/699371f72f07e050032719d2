@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
-streamlit
+streamlit>=1.27.0
 pytest
 scipy
 seaborn
